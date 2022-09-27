@@ -1,0 +1,3 @@
+[submodule "Revisiting_Deep_Metric_Learning_PyTorch"]
+	path = Revisiting_Deep_Metric_Learning_PyTorch
+	url = git@github.com:robertahunt/Revisiting_Deep_Metric_Learning_PyTorch.git
