@@ -7,6 +7,9 @@ The Rove-Tree-11 dataset and code is provided to further research into automatic
 ## How to use - Running the deep metric learning models
 The latent features are all generated using the forked submodule. If you are installing locally, there is a requirements.txt file you can use with pip. I used a docker container inside vscode. The relevant docker files are provided in the submodule. 
 
+### Downloading the dataset
+
+The dataset is available at https://erda.ku.dk/archives/118d9022feb67f8eb7f7bc8bce71187f/published-archive.html (DOI Pending)
 
 ### Running the main code
 Once you have a system with the python requirements installed, you can run the main code via the command line, an example is given below:
