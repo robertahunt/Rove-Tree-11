@@ -48,5 +48,7 @@ TBD
 ## License
 This code is provided with an MIT license (see license file). The original code in the forked submodule (Revisiting_Deep_Metric_Learning_PyTorch) has the same MIT license. 
 
+## Beautiful Overview of Dataset
+Made with much effort and frustration in d3, based on this example: https://observablehq.com/@d3/tree-of-life
 
 ![alt text](https://github.com/robertahunt/Rove-Tree-11/blob/main/images/chart_white.png?raw=true)
