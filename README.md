@@ -49,4 +49,4 @@ TBD
 This code is provided with an MIT license (see license file). The original code in the forked submodule (Revisiting_Deep_Metric_Learning_PyTorch) has the same MIT license. 
 
 
-![alt text](https://github.com/robertahunt/Rove-Tree-11/blob/main/images/chart.png?raw=true)
+![alt text](https://github.com/robertahunt/Rove-Tree-11/blob/main/images/chart_white.png?raw=true)
