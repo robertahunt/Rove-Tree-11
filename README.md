@@ -9,7 +9,7 @@ The latent features are all generated using the forked submodule. If you are ins
 
 ### Downloading the dataset
 
-The dataset is available at https://erda.ku.dk/archives/118d9022feb67f8eb7f7bc8bce71187f/published-archive.html (DOI Pending)
+The dataset is available at https://erda.ku.dk/archives/118d9022feb67f8eb7f7bc8bce71187f/published-archive.html (DOI: http://doi.org/10.17894/ucph.39619bba-4569-4415-9f25-d6a0ff64f0e3)
 
 ### Running the main code
 Once you have a system with the python requirements installed, you can run the main code via the command line, an example is given below:
@@ -43,7 +43,16 @@ The alignment score is calculated in the jupyter notebook '00. Run RevBayes for 
 
 ## Citations
 If you use this code/dataset, please cite:
-TBD
+```
+@InProceedings{Hunt_2022_ACCV,
+    author    = {Hunt, Roberta and Pedersen, Kim Steenstrup},
+    title     = {Rove-Tree-11: The not-so-Wild Rover, A hierarchically structured image dataset for deep metric learning research},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {December},
+    year      = {2022},
+    pages     = {2967-2983}
+}
+```
 
 ## License
 This code is provided with an MIT license (see license file). The original code in the forked submodule (Revisiting_Deep_Metric_Learning_PyTorch) has the same MIT license. 
