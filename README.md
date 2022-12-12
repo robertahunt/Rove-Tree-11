@@ -1,6 +1,10 @@
 # Rove-Tree-11
 Repository for Code for the Rove-Tree-11:The not-so-Wild Rover. A hierarchically structured image dataset for deep metric learning research paper/dataset
 
+## The paper
+This code is associated with the following paper:
+https://openaccess.thecvf.com/content/ACCV2022/html/Hunt_Rove-Tree-11_The_not-so-Wild_Rover_A_hierarchically_structured_image_dataset_for_ACCV_2022_paper.html
+
 ## Purpose
 The Rove-Tree-11 dataset and code is provided to further research into automatic generation of phylogenetic trees (trees that show how closely related species are) from images using deep learning. To do this, segmented images of specimens of 13,887 beetles from 215 different species of Rove Beetles (Family Staphylinidae) are provided taken from the Natural History Museum of Denmark's collections. A current gold standard phylogeny is provided with the dataset.
 
